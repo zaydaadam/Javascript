@@ -1,0 +1,11 @@
+.addtoCart{
+    padding: 5px 15px;
+    background-color: yellow;
+    font-weight: bold;
+    cursor: pointer;
+}
+.buyNow {
+    padding: 5px 10px;
+    background-color: orange;
+    font-weight: bold;
+}
